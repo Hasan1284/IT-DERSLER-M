@@ -1,0 +1,31 @@
+body
+{
+    background-color: rgb(40, 146, 146);
+}
+.genel
+{
+    width: 100%;
+    text-align: center;
+}
+.urun
+{
+    width: 100%;
+}
+.b-resim
+{
+    width: 150px;
+    height: 150px;
+}
+fieldset
+{
+    
+}
+.f-set
+{
+
+}
+.a-resim
+{
+    width: 150px;
+    height: 150px;
+}
